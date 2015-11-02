@@ -1,0 +1,19 @@
+#clock{
+    text-align: center;
+    font-size: 86px;
+    font-family: arial;
+    margin-top: 28%;
+}
+
+.regColor{
+	color: black;
+}
+
+.minColor{
+	color: red;
+}
+
+.pause{
+	text-align:center;
+	font-family:Arial;
+}
